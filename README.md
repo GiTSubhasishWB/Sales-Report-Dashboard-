@@ -1,2 +1,54 @@
-# Sales-Report-Dashboard-
-A data analytics project focused on cleaning and analyzing sales data using Python, Jupyter Notebook and Excel, followed by creating an interactive Power BI dashboard to visualize sales performance, trends, and key business insights.
+Sales Report Dashboard
+📌 Project Overview
+
+Sales Report Dashboard is a data analytics project focused on cleaning, analyzing, and visualizing sales data to generate meaningful business insights.
+
+The project uses Excel, Python, Jupyter Notebook, SQL, and Power BI to transform raw sales data into an interactive dashboard.
+
+🛠️ Technologies Used
+Excel – Raw data storage and initial data preparation
+Python – Data cleaning and analysis
+Jupyter Notebook – Data exploration and processing
+SQL – Data querying and analysis
+Power BI – Interactive dashboard and visualization
+🔄 Project Workflow
+Collected and prepared the raw sales data in Excel.
+Cleaned and processed the data using Python in Jupyter Notebook.
+Used SQL queries to analyze the cleaned data.
+Created meaningful visualizations and KPIs in Power BI.
+Developed an interactive Sales Report Dashboard to present business insights.
+📊 Dashboard Insights
+
+The dashboard provides insights into:
+
+Total Sales
+Total Profit
+Sales by Category
+Sales by Region
+Sales Trends
+Top-Performing Products
+Monthly/Yearly Sales Performance
+Overall Business Performance
+🎯 Objective
+
+The main objective of this project is to demonstrate how raw sales data can be cleaned, analyzed, and transformed into useful business insights using data analytics tools.
+
+📁 Project Structure
+Sales-Report-Dashboard/
+│
+├── Data/
+│   └── sales_data.xlsx
+│
+├── Python/
+│   └── sales_analysis.ipynb
+│
+├── SQL/
+│   └── sales_queries.sql
+│
+├── PowerBI/
+│   └── sales_dashboard.pbix
+│
+└── README.md
+👨‍💻 Skills Demonstrated
+
+Data Cleaning | Data Analysis | SQL | Python | Jupyter Notebook | Power BI | Data Visualization | Business Intelligence
